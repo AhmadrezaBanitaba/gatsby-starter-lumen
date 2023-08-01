@@ -22,13 +22,13 @@
     }
   ],
   "author": {
-    "name": "John Doe",
+    "name": "Reza Banitaba",
     "photo": "/photo.jpg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "bio": "Full Stack Software Developer, 📍 Vancouver, BC",
     "contacts": {
       "rss": "",
       "email": "",
-      "github": "#",
+      "github": "https://github.com/rezabanitaba",
       "facebook": "#",
       "telegram": "#",
       "twitter": "#",
