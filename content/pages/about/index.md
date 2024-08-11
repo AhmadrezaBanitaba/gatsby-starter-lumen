@@ -13,13 +13,23 @@ Previously, I worked as a Web Development Contractor, designing and delivering w
 
 Skills
 Languages: Python, JavaScript, HTML, CSS
+
 Frameworks: Vue.js, Node.js, Angular, React
+
 Cloud: AWS (4+ years), familiar with Azure and GCP
+
 Networking: OSI model, TCP/IP
+
 Scripting: Python, CRUD applications
+
 System Administration: Red Hat Linux, process automation
+
 Databases: MySQL, PostgreSQL, MongoDB, SQL Server, DynamoDB
+
 Education
+
 Diploma: Computer Information Technology, British Columbia Institute of Technology
+
 Bachelor of Science: Astrophysics, University of London
+
 I am a problem solver and a quick learner, always eager to take on new challenges and contribute to innovative projects.
