@@ -4,10 +4,22 @@ template: "page"
 socialImage: "./notebook.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I'm Reza Banitaba, a Full Stack Developer and Cloud Engineer based in Vancouver, BC, with over four years of experience in cloud technologies, particularly AWS. I specialize in both front-end and back-end development, with proficiency in Python, JavaScript, Vue.js, Node.js, and AWS services.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/notebook.jpg)
+Professional Experience
+As a Full Stack Developer at OneCup AI, I have developed an AI pipeline in Python, created a customer portal with Vue.js, and deployed AWS Lambda functions to optimize task automation and data processing. My work also includes managing infrastructure with AWS services like EC2, DynamoDB, and S3, ensuring high system reliability.
 
-_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
+Previously, I worked as a Web Development Contractor, designing and delivering websites using the MEAN stack and WordPress. I also have experience in sales, where I enhanced customer satisfaction and team communication.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Skills
+Languages: Python, JavaScript, HTML, CSS
+Frameworks: Vue.js, Node.js, Angular, React
+Cloud: AWS (4+ years), familiar with Azure and GCP
+Networking: OSI model, TCP/IP
+Scripting: Python, CRUD applications
+System Administration: Red Hat Linux, process automation
+Databases: MySQL, PostgreSQL, MongoDB, SQL Server, DynamoDB
+Education
+Diploma: Computer Information Technology, British Columbia Institute of Technology
+Bachelor of Science: Astrophysics, University of London
+I am a problem solver and a quick learner, always eager to take on new challenges and contribute to innovative projects.
